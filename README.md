@@ -1,4 +1,4 @@
-                                                          Anomaly Detection in Time Series Data
+                                              Anomaly Detection in Time Series Data
 This repository contains code for detecting anomalies in time series data using Python. The project includes components for data preparation, visualization, exploratory data analysis (EDA), and anomaly detection using a Random Forest classifier.
 
 Project Overview
